@@ -5,4 +5,6 @@ What is OCR?<br /> OCR stands for "Optical Character Recognition." It is a techn
 <br>
 This project can be used for extraction text from images for example scanning of government documents, scanning image dataset for a particular text. For example there can be a scenario where a person has taken multiple screenshots of whatsapp chats then the police/CBI can use this project to scan those images for particular keyword.
 <br>
-# Tech Stack:- Python,easyOCR, pytorch, opencv
+# Tech
+<br>
+Python,easyOCR, pytorch, opencv
